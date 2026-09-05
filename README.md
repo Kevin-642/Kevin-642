@@ -68,7 +68,7 @@ Guides structurés + posts quotidiens sur la logistique et les bonnes pratiques
 - 🔨 Développement de **Shift Rush** avec Palettik Studio
 - 📝 Création de contenu logistique sur **La Bible Logistique**
 - 🌦️ Amélioration de **Frog's Weather** (closed Alpha)
-- 🎓 Validation des Acquis de l'Expérience (VAE) - Responsable Logistique
+- 🎓 Validation des Acquis de l'Expérience (VAE) 
 - 🚀 Expansion du portfolio d'apps mobiles
 
 ---
